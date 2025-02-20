@@ -28,3 +28,6 @@ For creating temporary files to store uploaded videos, ensuring efficient handli
 For numerical operations, especially for handling image and video frame data as arrays.
 ### 7.io.BytesIO: 
 While imported, this library isn't directly used in the provided code snippet. It's typically used for handling in-memory binary streams, which might be relevant for more advanced video processing or handling video data in bytes format, but it's not essential to the core functionality shown.
+
+## Summary:
+* The "Real-Time Traffic Vehicle Detection" project is a Streamlit web application designed to detect vehicles in uploaded traffic videos. It leverages the YOLOv8 model for object detection and OpenCV for video processing, providing a visual and quantitative analysis of vehicle traffic in the video. The application is user-friendly, allowing for simple video uploads and displaying the processed video with vehicle detections in real time.
